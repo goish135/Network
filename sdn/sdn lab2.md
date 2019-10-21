@@ -1,8 +1,13 @@
 Ubuntu 版本 很重要
+
 Ubuntu 版本 很重要
+
 Ubuntu 版本 很重要
+
 [VMware Player 虛擬機器安裝 Ubuntu 設定教學](https://www.kjnotes.com/linux/18)
+
 [Mininet介紹與安裝 — on Ubuntu 16.04](https://ting-kuan.blog/2017/11/03/%e3%80%90mininet%e4%bb%8b%e7%b4%b9%e8%88%87%e5%ae%89%e8%a3%9d-on-ubuntu-16-04%e3%80%91/)
+
 查看 Ubuntu 版本
 ```
 lsb_release -a
