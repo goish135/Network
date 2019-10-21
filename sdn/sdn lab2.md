@@ -89,12 +89,16 @@ ryu-manager
 出現**loading app ryu.controller.ofp_handler instantiating app ryu.controller.ofp_handler of OFPHandler** 代表正確無誤
 
 開啟兩個 terminal 
+
 一個執行 Ryu 一個執行 Mininet
+
 ***Ryu***
 ```
 ryu-manager --verbose --observe-links
 ```
+
 Ryu 執行後，等mininet連接
+
 ***Mininet***
 ```
 mn --topo-linear,2 --controller = remote
