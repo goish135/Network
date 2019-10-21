@@ -85,6 +85,7 @@ pip install ryu
 ryu-manager
 ```
 ![](https://i.imgur.com/p83iYTY.png)
+
 出現**loading app ryu.controller.ofp_handler instantiating app ryu.controller.ofp_handler of OFPHandler** 代表正確無誤
 
 開啟兩個 terminal 
