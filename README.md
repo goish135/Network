@@ -5,4 +5,14 @@
     - OVS:
         - 安裝 OVS
         - 熟習 OpenFlow
+    - Mininet:
+    	- 安裝 Mininet
+    	- 熟習 Mininet
+    	- 以程式碼建立Mininet環境: 虛擬環境連結 Controller
+    - Ryu Controller
+    	- 安裝 Ryu
+    	- 第一支 Controller 程式
+    	- Controller 規劃轉送邏輯
+    	- Switching Hub
+    	- 路徑配置 : Shortest Path 
     
