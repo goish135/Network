@@ -15,4 +15,5 @@
     	- Controller 規劃轉送邏輯
     	- Switching Hub
     	- 路徑配置 : Shortest Path 
+        - Ref: [Shortest Path With Hop](https://github.com/ParanoiaUPC/sdn_shortest_path)
     
